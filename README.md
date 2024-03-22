@@ -1,1 +1,2 @@
 # DOM-SBA316-Option2
+This webpage is about Shopping ..adding a items in ur cart from Fruits, Flowers etc options . I have tried to add all the requiremets mention n the SBA 316 DOM manipulation Project. 
